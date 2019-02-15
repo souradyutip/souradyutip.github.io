@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Soura's Homepage</title>
   </head>
-  <body style="background-color: #fefff3; width: 1381px; margin-left: 8px;">
+  <body style="   background-color: #fefff3; width: 1381px; margin-left: 8px;">
     <div style="text-align: left; width: 716px;"><a><span style="font-size: 18px;"><span
             style="font-family: &quot;comic sans ms&quot;, cursive;"><strong>Welcome
               to my personal homepage!</strong></span></span></a></div>
@@ -60,11 +60,11 @@
     <p><u><strong>Research Interests</strong></u></p>
     <p><em>(Present)</em>&nbsp;Cryptographic modes and multiparty
       protocols;&nbsp;Blockchain and Cryptocurrency; Anonymity and Privacy;
-      Network Security.</p>
-    <p> <i>(Recent past)</i> Design and analysis of cryptographic primitives
-      (e.g. stream cipher, hash function, etc.).</p>
-    <p><a href= publications.html>See all publications </a><br>
-    <p><a href="Courses.html">See all courses</a></p>
+      Network Security.<br>
+      <i>(Recent past)</i> Design and analysis of cryptographic primitives (e.g.
+      stream cipher, hash function, etc.).</p>
+    <p><a href="publications.html">See all publications </a><br>
+      <a href="Courses.html">See all courses</a></p>
     <p><strong>Upcoming visits</strong></p>
     <ul>
       <li>Feb. 21-23, 2019, C-DAC, Hyderabad</li>
