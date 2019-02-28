@@ -1,7 +1,72 @@
-<!DOCTYPE html><html>  <head>    <meta http-equiv="content-type" content="text/html; charset=utf-8">    <title>Soura's Homepage</title>  </head>  <body style="                 background-color: #fefff3">    <table cellspacing="5" cellpadding="2" border="0">      <tbody>        <tr>          <td><img src="774.jpeg" alt="My picture" style="width: 214px; height: 257px;"              border="0"></td>          <td valign="bottom">            <h3>Dr. Souradyuti Paul</h3>            <p> Electrical Engineering and Computer Science (EECS) Department<br>              Indian Institute of Technology (IIT) Bhilai (Office: 106)<br>              Sejbahar, Raipur 492015 (CG)<br>              (+91) 771 255 1300 x 6111<br>              <i>email:</i> souradyuti@iitbhilai.ac.in,              souradyuti.paul@gmail.com </p>          </td>        </tr>      </tbody>    </table>    <p>I am an associate professor in the department&nbsp;<a href="https://iitbhilai.ac.in/index.php?pid=dept_cse">EECS</a>      of <a target="_blank" data-cke-saved-href="https://www.iitbhilai.ac.in/index.php"        href="https://www.iitbhilai.ac.in/index.php"        class="navigation_external_link">IIT
-        Bhilai.</a> Earlier, I worked as an assistant professor of CSE at IIT      Gandhinagar (Jul. 2014 - Oct. 17). I obtained BE, MTech and PhD degrees,      respectively, from <a href="http://www.jaduniv.edu.in/">Jadavpur        University</a> (1994 - 98), <a href="https://www.isical.ac.in/">Indian        Statistical Institute</a> (1999 - 01) and <a href="https://www.kuleuven.be/english/">KU
-        Leuven</a> (2001 - 06). I spent a long span of time (about 8 years)      working as a postdoctoral (or guest) researcher at various well-known <em>data
-        security</em> research groups in Europe, USA, and Canada, namely, <a href="https://www.esat.kuleuven.be/cosic/">COSIC,
-        </a>KU Leuven (2006 - 08), <a href="https://www.nist.gov/itl/csd">CSD,</a>      NIST, USA (2008 - 12) and <a href="https://crysp.uwaterloo.ca/">CrySP,</a>      University of Waterloo (2012 - 14).</p>    <p>Since 2001, my research has always centered on cryptography, data      security and related areas.</p>    <p>My official webpage is <a href="https://www.iitbhilai.ac.in/index.php?pid=souryadyuti"        target="target">        here.</a> </p>    <p>Here is my <a href="https://drive.google.com/file/d/0B3hc1ch9bBloaFQyOUxDS3Yyc0E/view">CV
-        (last updated Jan.13, 2018.)</a> </p>    <p>This winter semester (2018-19W), I am teaching <a href="https://sites.google.com/site/cs554blockchain/home">CS554
-        Blockchain Technologies</a> and CS254 Database Management Systems.<u><strong><br>        </strong></u></p>    <u><strong>Research Interests</strong></u>    <p><em>(Present)</em> Cryptographic modes and multiparty protocols;      Blockchain and Cryptocurrency; Anonymity and Privacy; Network Security.<br>      <i>(Recent past)</i> Design and analysis of cryptographic primitives (e.g.      stream cipher, hash function, etc.).</p>    <p><a href="Publications.html">See all publications </a><br>      <a href="Courses.html">See all courses</a></p>    <p><strong>Upcoming visits</strong></p>    <ul>      <li>Feb. 21-23, 2019, C-DAC, Hyderabad</li>      <li>March 1, 2019, Bhilai Institute of Technology, Durg</li>      <li><a href="souravisit.html">All visits</a></li>    </ul>  </body></html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Soura's Homepage</title>
+  </head>
+  <body style="                     background-color: #fefff3">
+    <table cellspacing="5" cellpadding="2" border="0">
+      <tbody>
+        <tr>
+          <td><img src="774.jpeg" alt="My picture" style="width: 214px; height: 257px;"
+              border="0"></td>
+          <td valign="bottom">
+            <h3>Dr. Souradyuti Paul</h3>
+            <p> Electrical Engineering and Computer Science (EECS) Department<br>
+              Indian Institute of Technology (IIT) Bhilai (Office: 106)<br>
+              Sejbahar, Raipur 492015 (CG)<br>
+              (+91) 771 255 1300 x 6111<br>
+              <i>email:</i> souradyuti@iitbhilai.ac.in,
+              souradyuti.paul@gmail.com </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>I am an associate professor in the department&nbsp;<a href="https://iitbhilai.ac.in/index.php?pid=dept_cse">EECS</a>
+      of <a target="_blank" data-cke-saved-href="https://www.iitbhilai.ac.in/index.php"
+        href="https://www.iitbhilai.ac.in/index.php" class="navigation_external_link">IIT
+        Bhilai.</a> Earlier, I worked as an assistant professor of CSE at IIT
+      Gandhinagar (Jul. 2014 - Oct. 17). I obtained BE, MTech and PhD degrees,
+      respectively, from <a href="http://www.jaduniv.edu.in/">Jadavpur
+        University</a> (1994 - 98), <a href="https://www.isical.ac.in/">Indian
+        Statistical Institute</a> (1999 - 01) and <a href="https://www.kuleuven.be/english/">KU
+        Leuven</a> (2001 - 06). I spent a long span of time (about 14 years)
+      working as a doctoral, postdoctoral and a guest researcher at various
+      well-known <em>data security</em> research groups in Europe, USA, and
+      Canada, namely, <a href="https://www.esat.kuleuven.be/cosic/">COSIC, </a>KU
+      Leuven (2001 - 08), <a href="https://www.nist.gov/itl/csd">CSD,</a> NIST,
+      USA (2008 - 12) and <a href="https://crysp.uwaterloo.ca/">CrySP,</a>
+      University of Waterloo (2012 - 14). In addition to carrying out academic
+      research in computer security, I was, in the past, directly involved with
+      (and a major technical contributor to) two international security projects
+      of significant importance: ECRYPT-eSTREAM (organized by the European
+      Union, 2005-2008) for standardizing stream ciphers, and SHA-3 (organized
+      by NIST, 2007-2012) for standardizing a hash function for the US
+      Government. Currently, I am heavily involved in the Indian initiatives
+      (organized by Bureau of Indian Standards) for standardizing
+      Blockchain-based applications under various the ISO projects. </p>
+    <p><u><strong>Research Interests</strong></u> <em><br>
+        (Present)</em> Cryptographic modes and multiparty protocols; Blockchain
+      and Cryptocurrency; Anonymity and Privacy; Network Security.<br>
+      <i>(Recent past)</i> Design and analysis of cryptographic primitives (e.g.
+      stream cipher, hash function, etc.).</p>
+    <p>Since 2001, my research has always centered on cryptography, data
+      security and related areas.</p>
+    <p><a href="Publications.html">See all publications </a></p>
+    <p>My official webpage is <a href="https://www.iitbhilai.ac.in/index.php?pid=souryadyuti"
+        target="target"> here.</a> </p>
+    <p>Here is my <a href="https://drive.google.com/file/d/0B3hc1ch9bBloaFQyOUxDS3Yyc0E/view">CV
+        (last updated Jan.13, 2018.)</a> </p>
+    <p>This winter semester (2018-19W), I am teaching <a href="https://sites.google.com/site/cs554blockchain/home">CS554
+        Blockchain Technologies</a> and CS254 Database Management Systems.<u><strong><br>
+        </strong></u></p>
+    <u><strong></strong></u>
+    <p> <a href="Courses.html">See all courses</a></p>
+    <p><strong>Upcoming visits</strong></p>
+    <ul>
+      <li>Feb. 21-23, 2019, C-DAC, Hyderabad</li>
+      <li>March 1, 2019, Bhilai Institute of Technology, Durg</li>
+      <li><a href="souravisit.html">All visits</a></li>
+    </ul>
+  </body>
+</html>
