@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Soura's Homepage</title>
   </head>
-  <body style="                     background-color: #fefff3">
+  <body style="                         background-color: #fefff3">
     <table cellspacing="5" cellpadding="2" border="0">
       <tbody>
         <tr>
@@ -25,9 +25,9 @@
     <p>I am an associate professor in the department&nbsp;<a href="https://iitbhilai.ac.in/index.php?pid=dept_cse">EECS</a>
       of <a target="_blank" data-cke-saved-href="https://www.iitbhilai.ac.in/index.php"
         href="https://www.iitbhilai.ac.in/index.php" class="navigation_external_link">IIT
-        Bhilai.</a> Earlier, I worked as an assistant professor of CSE at IIT
-      Gandhinagar (Jul. 2014 - Oct. 17). I obtained BE, MTech and PhD degrees,
-      respectively, from <a href="http://www.jaduniv.edu.in/">Jadavpur
+        Bhilai.</a> Earlier, I used to work as an assistant professor of CSE at
+      IIT Gandhinagar (Jul. 2014 - Oct. 17). I obtained BE, MTech and PhD
+      degrees, respectively, from <a href="http://www.jaduniv.edu.in/">Jadavpur
         University</a> (1994 - 98), <a href="https://www.isical.ac.in/">Indian
         Statistical Institute</a> (1999 - 01) and <a href="https://www.kuleuven.be/english/">KU
         Leuven</a> (2001 - 06). I spent a long span of time (about 14 years)
@@ -43,8 +43,11 @@
       Union, 2005-2008) for standardizing stream ciphers, and SHA-3 (organized
       by NIST, 2007-2012) for standardizing a hash function for the US
       Government. Currently, I am heavily involved in the Indian initiatives
-      (organized by Bureau of Indian Standards) for standardizing
+      (organized by the <em>Bureau of Indian Standards</em>) for standardizing
       Blockchain-based applications under various the ISO projects. </p>
+    <p><img src="new-icon.png" alt="new-icon" style="width: 24px; height: 25px;"
+        border="0">My keynote talk at BIT, Durg, "<a href="https://drive.google.com/file/d/1Nn-HFHBsygzB3uEiNm90CZJ6jpZLbFpf/view?usp=sharing">Blockchains:
+        Truth vs. Hype</a>"</p>
     <p><u><strong>Research Interests</strong></u> <em><br>
         (Present)</em> Cryptographic modes and multiparty protocols; Blockchain
       and Cryptocurrency; Anonymity and Privacy; Network Security.<br>
